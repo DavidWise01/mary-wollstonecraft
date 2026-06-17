@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mary Wollstonecraft",
+  "universe": "WOL · Mary Wollstonecraft (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Mary Wollstonecraft:WOL:420228⟧",
+  "carbon": "mary-wollstonecraft.carbon.tiff (TIFF)",
+  "silicon": "mary-wollstonecraft.silicon.png (PNG)",
+  "seal_sha256": "ff342c9b57d465dae126c12b744c533d4eccc41359ddba66a17dae88d7bc3dfc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

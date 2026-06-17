@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Buried Name",
+  "universe": "WOL · The Buried Name (ERĒMIA · female · the generations)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Buried Name:WOL:c68aa1⟧",
+  "carbon": "mary-wollstonecraft-the-reputation.carbon.tiff (TIFF)",
+  "silicon": "mary-wollstonecraft-the-reputation.silicon.png (PNG)",
+  "seal_sha256": "522a09b6e907a71510d8b14340cab1e3d2ed2f6e7518a43e67f2b4e47ddc5085",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
