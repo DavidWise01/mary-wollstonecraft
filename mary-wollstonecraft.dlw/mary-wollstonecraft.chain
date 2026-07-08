@@ -4,6 +4,6 @@ slug  : mary-wollstonecraft
 seal  : ff342c9b57d465dae126c12b744c533d4eccc41359ddba66a17dae88d7bc3dfc
 prev  : 2e3e3cf1e83c0ffa6b07bc807e37e70ce218bf9ca9fc72baad5641cb8a8cbfd3
 link  : b4a0d6d76167c0845cde85a545a8481f27dc35b14a39ae8100d392b7aa30a11c
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
